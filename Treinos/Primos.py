@@ -1,5 +1,5 @@
 """
-Exercício de Treino - 23/06/2020
+Exercício de Treino - 23/09/2020
 
 Determina se um número é primo, caso não seja, 
 determina quantos e quais divisores ele possúi.
