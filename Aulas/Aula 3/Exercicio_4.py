@@ -31,7 +31,7 @@ def main():
                 p2 = float(input("\nDigite a nota da P2: "))
                 nr = float(input("\nDigite a nota do relatório: "))
 
-                if (0 < p1) or (0 < p2) or (0 < nr) or (p1 > 10) or (p2 > 10) or (nr > 10):
+                if (0 > p1) or (0 > p2) or (0 > nr) or (p1 > 10) or (p2 > 10) or (nr > 10):
                     raise Exception()
 
                 break
