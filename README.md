@@ -27,7 +27,7 @@ Ministrada pelo professor Jorge Duarte Pires Valério em 2020/1 por EAD durante 
 
 - [Exercício 5](Aulas/Aula%202/Exercicio_5.py)
 
-### Aula 3 - *22/09/2020*
+### Aula 3 - *23/09/2020*
 
 - [Exercício 1](Aulas/Aula%203/Exercicio_1.py)
 
