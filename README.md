@@ -43,10 +43,10 @@ Ministrada pelo professor Jorge Duarte Pires Valério em 2020/1 por EAD durante 
 
 - [Exercício 3](https://github.com/pitroldev/uerj-algoritmos-computacionais/blob/master/Aulas/Aula%203/Exercicio_3.py)
 
-- [Exercício 4](https://github.com/pitroldev/uerj-algoritmos-computacionais/blob/master/Aulas/Aula%203/Exercicio_4.py)
+- [Exercício 4](Aulas/Aula 3/Exercicio_4.py)
 
 
 
 ### Treinos
 
-- [Números Primos](blob/master/Treinos/Primos.py)
+- [Números Primos](Treinos/Primos.py)
