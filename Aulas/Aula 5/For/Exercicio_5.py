@@ -1,0 +1,39 @@
+# UERJ - 30/09/2020
+# Aula 5 de Algoritmos Computacionais
+
+"""
+Exercício 5
+
+Leia um valor n inteiro positivo e calcule o
+enésimo termo da série de Fibonacci.
+"""
+
+
+def Fibonacci(n):
+    first = 0
+    second = 0
+    for i in range(n):
+        second = first + second
+        first = second - first
+
+        if (second == 0):
+            second = second + 1
+    return first
+
+
+def main():
+    while True:
+        try:
+            num = int(input("Digite um número inteiro positivo: "))
+
+            if num <= 0:
+                raise Exception()
+
+            break
+        except:
+            print("\nPor favor, digite um número inteiro positivo válido.")
+
+    print("O termo", num, "da série de fibonacci é", Fibonacci(num))
+
+
+main()
