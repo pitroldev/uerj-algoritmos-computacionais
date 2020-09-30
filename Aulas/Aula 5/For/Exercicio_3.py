@@ -2,7 +2,7 @@
 # Aula 5 de Algoritmos Computacionais
 
 """
-Exercício 2
+Exercício 3
 
 Leia um valor n inteiro positivo e imprima
 todos os valores de n a 1 seguidos dos seus
