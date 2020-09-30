@@ -2,10 +2,6 @@
 UERJ - 22/09/2020
 Trabalho 1 de Algoritimos Computacionais
 
-Nome: Petro Liporace Cardoso de Souza
-Matrícula: 201610080311
-https://github.com/pitroldev/uerj-algoritmos-computacionais
-
 
 Construir um programa que leia três valores numéricos inteiros e 
 verifique se eles podem ser valores dos lados de um triângulo. 
