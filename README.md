@@ -9,6 +9,8 @@ Ministrada pelo professor Jorge Duarte Pires Valério em 2020/1 por EAD durante 
 
 # Sumário
 
+- [Trabalhos](#Trabalhos)
+
 - [Aula 2 - 22/09/2020](#aula-2---22092020)
 
 - [Aula 3 - 23/09/2020](#aula-3---23092020)
@@ -17,7 +19,9 @@ Ministrada pelo professor Jorge Duarte Pires Valério em 2020/1 por EAD durante 
 
 - [Aula 5 - 30/09/2020](#aula-5---30092020)
 
-- [Trabalhos](#Trabalhos)
+- [Aula 6 - 06/10/2020](#aula-6---06102020)
+
+- [Aula 8 - 13/10/2020](#aula-5---13102020)
 
 - [Treinos](#Treinos)
 
@@ -81,9 +85,35 @@ Ministrada pelo professor Jorge Duarte Pires Valério em 2020/1 por EAD durante 
 
 - [For/Exercício 7](Aulas/Aula%205/For/Exercicio_7.py)
 
+### Aula 6 - _06/10/2020_
+
+- [Exercício 1](Aulas/Aula%206/Exercicio_1.py)
+
+- [Exercício 2](Aulas/Aula%206/Exercicio_2.py)
+
+- [Exercício 3](Aulas/Aula%206/Exercicio_3.py)
+
+- [Exercício 4](Aulas/Aula%206/Exercicio_4.py)
+
+### Aula 8 - _13/10/2020_
+
+- [Exercício 1](Aulas/Aula%208/Exercicio_1.py)
+
+- [Exercício 2](Aulas/Aula%208/Exercicio_2.py)
+
+- [Exercício 3](Aulas/Aula%208/Exercicio_3.py)
+
+- [Exercício 4](Aulas/Aula%208/Exercicio_4.py)
+
+- [Exercício 5](Aulas/Aula%208/Exercicio_5.py)
+
 # Trabalhos
 
 - [Trabalho 1 - 22/09/2020](Trabalhos/Trabalho_1.py)
+
+- [Trabalho 2 - 30/09/2020](Trabalhos/Trabalho_2.py)
+
+- [Trabalho 3 - 06/10/2020](Trabalhos/Trabalho_3.py)
 
 # Treinos
 
