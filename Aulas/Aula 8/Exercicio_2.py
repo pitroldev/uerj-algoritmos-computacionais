@@ -12,7 +12,7 @@ apenas o fatiamento
 
 def main():
 
-    palavra = input(str("Digite uma palavra: "))
+    palavra = str(input("Digite uma palavra: "))
     print(palavra[::-1])
 
 

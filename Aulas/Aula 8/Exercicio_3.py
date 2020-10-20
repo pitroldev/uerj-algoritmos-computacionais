@@ -20,7 +20,7 @@ def checkPalindrome(palavra):
 
 def main():
 
-    palavra = input(str("Digite uma palavra: "))
+    palavra = str(input("Digite uma palavra: "))
     print(palavra, "é um palíndromo?", checkPalindrome(palavra))
 
 
