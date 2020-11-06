@@ -1,5 +1,7 @@
 .idea/*
 venv/*
 .vscode/*
+*.txt
 
-Trabalhos/Trabalho_5.py
+Aulas/Aula 12
+Trabalhos/Trabalho_7.py

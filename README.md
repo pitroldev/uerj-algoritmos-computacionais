@@ -25,6 +25,8 @@ Ministrada pelo professor Jorge Duarte Pires Valério em 2020/1 por EAD durante 
 
 - [Aula 9 - 20/10/2020](#aula-9---20102020)
 
+- [Aula 10 - 27/10/2020](#aula-9---27102020)
+
 - [Treinos](#Treinos)
 
 # Aulas
@@ -115,6 +117,10 @@ Ministrada pelo professor Jorge Duarte Pires Valério em 2020/1 por EAD durante 
 
 - [Exercício 2](Aulas/Aula%209/Exercicio_2.py)
 
+### Aula 10 - _27/10/2020_
+
+- [Exercício 1](Aulas/Aula%210/Exercicio_1.py)
+
 # Trabalhos
 
 - [Trabalho 1 - 22/09/2020](Trabalhos/Trabalho_1.py)
@@ -124,6 +130,10 @@ Ministrada pelo professor Jorge Duarte Pires Valério em 2020/1 por EAD durante 
 - [Trabalho 3 - 06/10/2020](Trabalhos/Trabalho_3.py)
 
 - [Trabalho 4 - 13/10/2020](Trabalhos/Trabalho_4.py)
+
+- [Trabalho 5 - 20/10/2020](Trabalhos/Trabalho_5.py)
+
+- [Trabalho 6 - 27/10/2020](Trabalhos/Trabalho_6.py)
 
 # Treinos
 
