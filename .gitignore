@@ -3,5 +3,4 @@ venv/*
 .vscode/*
 *.txt
 
-Aulas/Aula 12
-Trabalhos/Trabalho_7.py
+!Provas/*.txt
