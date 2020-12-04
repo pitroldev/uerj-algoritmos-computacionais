@@ -36,7 +36,7 @@ Ministrada pelo professor Jorge Duarte Pires Valério em 2020/1 por EAD durante 
 - [Treinos](#Treinos)
 
 - [Provas](#Provas)
-  
+
 # Aulas
 
 ### Aula 2 - _22/09/2020_
@@ -127,24 +127,24 @@ Ministrada pelo professor Jorge Duarte Pires Valério em 2020/1 por EAD durante 
 
 ### Aula 10 - _27/10/2020_
 
-- [Exercício 1](Aulas/Aula%210/Exercicio_1.py)
+- [Exercício 1](Aulas/Aula%2010/Exercicio_1.py)
 
 ### Aula 12 - _10/11/2020_
 
-- [Exercício 1](Aulas/Aula%210/Exercicio_1.py)
+- [Exercício 1](Aulas/Aula%2012/Exercicio_1.py)
 
 ### Aula 13 - _17/11/2020_
 
-- [Aula_13](Aulas/Aula%210/Aula_13.py)
+- [Aula_13](Aulas/Aula%2013/Aula_13.py)
 
-- [Exercício 1](Aulas/Aula%210/Exercicio_1.py)
+- [Exercício 1](Aulas/Aula%2013/Exercicio_1.py)
 
-- [Exercício 1](Aulas/Aula%210/Exercicio_2.py)
+- [Exercício 1](Aulas/Aula%2013/Exercicio_2.py)
 
 ### Aula 14 - _24/11/2020_
 
-- [Aula_14](Aulas/Aula%210/Aula_14.py)
-  
+- [Aula_14](Aulas/Aula%2014/Aula_14.py)
+
 # Trabalhos
 
 - [Trabalho 1 - 22/09/2020](Trabalhos/Trabalho_1.py)
@@ -168,11 +168,11 @@ Ministrada pelo professor Jorge Duarte Pires Valério em 2020/1 por EAD durante 
 - [Trabalho 9 Classes - 17/11/2020](Trabalhos/Trabalho_9_Classes.py)
 
 - [Trabalho 10 - 24/11/2020](Trabalhos/Trabalho_10.py)
-  
+
 # Treinos
 
 - [Números Primos](Treinos/Primos.py)
-  
+
 # Provas
 
 - [Prova 1](Provas/P1.py)
